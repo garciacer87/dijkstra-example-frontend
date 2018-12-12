@@ -1,0 +1,19 @@
+{
+  "name": "dijkstra-example-frontend",
+  "version": "1.0.0",
+  "description": "Example React app to calculate shortest path in a graph, using Dijkstra's algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garciacer87/dijkstra-example-frontend.git"
+  },
+  "author": "Carlos Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garciacer87/dijkstra-example-frontend/issues"
+  },
+  "homepage": "https://github.com/garciacer87/dijkstra-example-frontend#readme"
+}
